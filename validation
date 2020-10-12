@@ -1,0 +1,18 @@
+
+public class Validation {
+    public static String date="";
+    public static int flag=0;
+  public static void validateDataThenSendValidDataToStore(String[] words){
+      if(words.length==0)
+          return;
+      if(words[0])) {
+      flag=1
+          return;
+      }
+      else {
+      flag=2
+      }
+    }
+    
+    
+  }
